@@ -106,6 +106,6 @@ streamlit run knn_streamlit_app.py
 
 # 💬 Author
 
-**[Saif Ullah]**  
+**Saif Ullah**  
 *Data Science & Machine Learning Enthusiast*  
 [LinkedIn](https://www.linkedin.com/in/saif-ullah-5ba1b1140/) | [GitHub](https://github.com/saif55045)
